@@ -102,6 +102,10 @@ CA-SDRi (Class-Aware Sound Signal-to-Distortion Ratio Improvement)
 
 ---
 
+## Resources
+- Read the Report: https://drive.google.com/file/d/1tsKs-xcIF_9E1K_2pLuiPkUknKcop8ik/view
+---
+
 ## 📝 Citation
 
 If you use this implementation in your research, please cite the original paper:
